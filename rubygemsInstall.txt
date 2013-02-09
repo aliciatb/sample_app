@@ -1,0 +1,2 @@
+Fetching gem metadata from https://rubygems.org/.Unfortunately, a fatal error has occurred. Please see the Bundler 
+troubleshooting documentation at http://bit.ly/bundler-issues. Thanks! 
